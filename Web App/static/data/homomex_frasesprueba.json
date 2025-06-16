@@ -1,0 +1,65 @@
+{
+    "npDirectoColectivo": [
+        "La comunidad LGBTQ+ merece vivir con libertad y sin miedo a ser juzgada.",
+        "Apoyar la visibilidad LGBTQ+ es una forma de construir una sociedad más justa.",
+        "La lucha de la comunidad LGBTQ+ es un ejemplo de resistencia y dignidad.",
+        "Cada junio celebramos el Orgullo como homenaje a la comunidad LGBTQ+.",
+        "La inclusión de la comunidad LGBTQ+ en todos los espacios debe ser una prioridad."
+    ],
+    "npIndirectoColectivo": [
+        "Cada quien tiene derecho a vivir su identidad libremente y sin prejuicios.",
+        "La diversidad de orientaciones y formas de ser enriquece a nuestra sociedad.",
+        "No hay nada malo en expresarse diferente o pensar distinto.",
+        "La libertad de amar a quien quieras no debería ser cuestionada.",
+        "Todas las personas deberían sentirse seguras al mostrar quiénes son."
+    ],
+    "npDirectoSubgrupos": [
+        "Las personas trans merecen respeto, reconocimiento legal y protección.",
+        "Los hombres gays y las mujeres lesbianas han sido históricamente discriminados y eso debe cambiar.",
+        "Las personas bisexuales también existen y merecen visibilidad.",
+        "Ser lesbiana no define tu capacidad ni tus derechos como ciudadana.",
+        "Ser trans no es una moda, es una identidad legítima."
+    ],
+    "npIndirectoSubgrupos": [
+        "No importa si una mujer ama a otra mujer, lo que importa es que haya amor.",
+        "Cada quien sabe a quién quiere en su vida, sin importar etiquetas.",
+        "Hay muchas formas de ser hombre o mujer, todas válidas.",
+        "No es raro que alguien se sienta fuera del molde tradicional de género.",
+        "Hay niños y niñas que desde pequeños saben que no encajan en las expectativas que se les impone."
+    ],
+    "pDirectoColectivo": [
+        "La comunidad LGBTQ+ está destruyendo los valores morales de nuestra sociedad.",
+        "Ese lobby LGBTQ+ solo quiere imponer su ideología en nuestras escuelas.",
+        "Normalizar al colectivo LGBTQ+ solo traerá confusión a las nuevas generaciones.",
+        "No deberíamos aceptar que la comunidad LGBTQ+ tenga más derechos que el resto.",
+        "Los derechos de la comunidad LGBTQ+ están siendo exageradamente promovidos."
+    ],
+    "pIndirectoColectivo": [
+        "No es odio, pero están exagerando con tanta visibilidad de esos temas.",
+        "No tengo nada en contra, pero no deberían enseñar eso en las escuelas.",
+        "Cada quien en su casa, pero no deberían mostrarse tanto en público.",
+        "No veo necesario tanto activismo últimamente, es molesto.",
+        "A veces parece que ser LGBTQ+ te da más privilegios que ser normal."
+    ],
+    "pDirectoSubgrupos": [
+        "Los gays son una plaga que debería mantenerse en silencio.",
+        "Las lesbianas no deberían educar a niños, son un mal ejemplo.",
+        "Ser trans es una enfermedad mental, no una identidad.",
+        "Los hombres que se visten como mujeres están enfermos.",
+        "Las relaciones entre personas del mismo sexo son antinaturales."
+    ],
+    "pIndirectoSubgrupos": [
+        "Está bien si alguien es gay, pero no deberían adoptar niños.",
+        "Una mujer que dice ser lesbiana probablemente tuvo una mala experiencia con hombres.",
+        "No es natural que un hombre quiera ser tratado como mujer.",
+        "Ser bisexual es solo una etapa, luego se les pasa.",
+        "Las personas trans deberían reconsiderar si lo suyo no es solo una confusión temporal."
+    ],
+    "nrEjemplos": [
+        "Hoy preparé lasaña por primera vez y me quedó excelente.",
+        "Me gusta salir a correr al amanecer, me ayuda a relajarme.",
+        "¿Ya vieron el nuevo capítulo de esa serie tan buena?",
+        "Estoy planeando un viaje a la montaña este fin de semana.",
+        "Mi equipo ganó el partido ayer, fue emocionante."
+    ]
+}

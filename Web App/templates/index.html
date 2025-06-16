@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMO-MEX - Clasificación de discurso de odio</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Clasificación de discurso hacia la comunidad LGBTQ+</h1>
+        <form id="text-form">
+            <label for="text-input">Introduce texto (hasta 10 frases, separadas por salto de línea):</label>
+            <textarea id="text-input" name="text" required rows="5"></textarea>
+            <button type="submit">Predecir clase</button>
+            <button disabled class="button-device" id="device-indicator">Cargando...</button>
+        </form>
+        <div id="result">
+            <table id="results-table" class="results-table">
+                <thead>
+                    <tr>
+                        <th>Texto</th>
+                        <th>Clase</th>
+                        <th>Acción</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div class="content">
+            <div class="example-phrases">
+                <h2>Textos de ejemplo</h2>
+                <div id="dynamic-buttons"></div>
+            </div>
+
+            <div class="results">
+                <h2>Resultados</h2>
+                <canvas id="results-chart"></canvas>
+                <div id="dominant-class" class="dominant-class"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h3 class="footer-text">TFM - Detección de discurso de odio hacia la comunidad LGBTQ+</h3>
+        <p>Universidad de Huelva · Escuela Técnica Superior de Ingeniería</p>
+        <p><b>Javier Román Pásaro</b></p>
+    </div>
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>
